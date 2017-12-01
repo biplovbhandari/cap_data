@@ -1,1 +1,1 @@
-# cap_data
+# This repo contains some CAP v 1.2 example data
